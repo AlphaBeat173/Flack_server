@@ -13,5 +13,5 @@ A Flask web server to send OSC messages to a target (e.g. Reaper).
 
 Don't forget to set environment variables:
 
-- `OSC_TARGET_IP` = `10.201.60.198`
-- `OSC_TARGET_PORT` = `8000`
+- `OSC_TARGET_IP` = `0.0.0.0`
+- `OSC_TARGET_PORT` = `9000`
